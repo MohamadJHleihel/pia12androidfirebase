@@ -14,7 +14,7 @@ import com.example.pia12androidfirebase.ui.theme.Pia12androidfirebaseTheme
 // skriva kod
 
 
-//Dev dev testa kod
+//Dev dev testa kod. nu funkar det bra
 
 
 class MainActivity : ComponentActivity() {
